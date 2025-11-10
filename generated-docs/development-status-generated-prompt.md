@@ -1,4 +1,4 @@
-Last updated: 2025-11-10
+Last updated: 2025-11-11
 
 # 開発状況生成プロンプト（開発者向け）
 
@@ -724,6 +724,7 @@ jobs:
 
 ## 最近の変更（過去7日間）
 ### コミット履歴:
+8cbaa11 Update project summaries (overview & development status) [auto]
 f3f6ddb github-actionsリポジトリの共通ワークフローを導入
 
 ### 変更されたファイル:
@@ -732,9 +733,15 @@ f3f6ddb github-actionsリポジトリの共通ワークフローを導入
 .github/workflows/call-translate-readme.yml
 .nojekyll
 README.md
+_config.yml
+docs/dummy.txt
+generated-docs/development-status-generated-prompt.md
+generated-docs/development-status.md
+generated-docs/project-overview-generated-prompt.md
+generated-docs/project-overview.md
 index.html
 services.js
 
 
 ---
-Generated at: 2025-11-10 08:34:54 JST
+Generated at: 2025-11-11 07:06:19 JST
