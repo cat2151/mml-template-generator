@@ -1,0 +1,8 @@
+title: "mml-template-generator"
+description: "mml-template-generator"
+theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/cat2151/mml-template-generator
+plugins:
+  - jekyll-sitemap
