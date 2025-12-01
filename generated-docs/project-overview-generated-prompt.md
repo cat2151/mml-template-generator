@@ -1,4 +1,4 @@
-Last updated: 2025-11-11
+Last updated: 2025-12-02
 
 
 # プロジェクト概要生成プロンプト（来訪者向け）
@@ -98,9 +98,11 @@ MMLですぐ音を出してみたいとき、
 ## ファイル階層ツリー
 📄 LICENSE
 📖 README.md
+📄 _config.yml
 📜 app.js
 📜 controller.js
 📁 generated-docs/
+🌐 googled947dc864c270e07.html
 🌐 index.html
 📜 services.js
 
@@ -111,6 +113,10 @@ MMLですぐ音を出してみたいとき、
 
 **controller.js** (11行, 422バイト)
   - 関数: controller, function
+  - インポート: なし
+
+**googled947dc864c270e07.html** (1行, 53バイト)
+  - 関数: なし
   - インポート: なし
 
 **index.html** (67行, 2393バイト)
@@ -143,6 +149,7 @@ MMLですぐ音を出してみたいとき、
 README.md
 app.js
 controller.js
+googled947dc864c270e07.html
 index.html
 services.js
 
@@ -156,4 +163,4 @@ services.js
 
 
 ---
-Generated at: 2025-11-11 07:06:19 JST
+Generated at: 2025-12-02 07:08:47 JST

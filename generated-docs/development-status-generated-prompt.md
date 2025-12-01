@@ -1,4 +1,4 @@
-Last updated: 2025-11-11
+Last updated: 2025-12-02
 
 # 開発状況生成プロンプト（開発者向け）
 
@@ -161,6 +161,7 @@ Last updated: 2025-11-11
 - .github/actions-tmp/generated-docs/project-overview-generated-prompt.md
 - .github/actions-tmp/generated-docs/project-overview.md
 - .github/actions-tmp/generated-docs/style.css
+- .github/actions-tmp/googled947dc864c270e07.html
 - .github/actions-tmp/issue-notes/10.md
 - .github/actions-tmp/issue-notes/11.md
 - .github/actions-tmp/issue-notes/12.md
@@ -196,9 +197,11 @@ Last updated: 2025-11-11
 - .github/workflows/call-translate-readme.yml
 - LICENSE
 - README.md
+- _config.yml
 - app.js
 - controller.js
 - generated-docs/project-overview-generated-prompt.md
+- googled947dc864c270e07.html
 - index.html
 - services.js
 
@@ -724,24 +727,22 @@ jobs:
 
 ## 最近の変更（過去7日間）
 ### コミット履歴:
-8cbaa11 Update project summaries (overview & development status) [auto]
-f3f6ddb github-actionsリポジトリの共通ワークフローを導入
+d7570cb Google検索にindexさせる用
+75ced4f Google検索にindexさせる用
 
 ### 変更されたファイル:
 .github/workflows/call-daily-project-summary.yml
 .github/workflows/call-issue-note.yml
 .github/workflows/call-translate-readme.yml
-.nojekyll
-README.md
 _config.yml
-docs/dummy.txt
 generated-docs/development-status-generated-prompt.md
 generated-docs/development-status.md
 generated-docs/project-overview-generated-prompt.md
 generated-docs/project-overview.md
+googled947dc864c270e07.html
 index.html
 services.js
 
 
 ---
-Generated at: 2025-11-11 07:06:19 JST
+Generated at: 2025-12-02 07:08:48 JST
